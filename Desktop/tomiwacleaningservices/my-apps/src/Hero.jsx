@@ -35,7 +35,6 @@ export default function Hero() {
       total,
     });
 
-    setShowForm(false);
     setShowQuote(true);
   };
 

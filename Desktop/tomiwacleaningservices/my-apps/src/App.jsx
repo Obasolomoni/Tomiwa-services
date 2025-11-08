@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar.jsx';
 import Hero from './Hero.jsx';
 import Services from './Services.jsx';
-import About from './About.jsx';
+import Products from './Products.jsx';
 import Testimonial from './Testimonial.jsx'
 import Footer from './Footer.jsx';
 import './App.css';
@@ -14,7 +14,7 @@ export default function App() {
       <Navbar />
       <Hero />
       <Services />
-      <About />
+      <Products />
       <Testimonial />
       <Footer />
     </>
